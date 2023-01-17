@@ -1,0 +1,31 @@
+*{
+color: red;
+
+
+}
+
+body { 
+    margin:0;
+    padding:0;
+    background: url(../image/téléchargement.jpg) no-repeat center fixed; 
+    -webkit-background-size: cover; /* pour anciens Chrome et Safari */
+    background-size: cover; /* version standardisée */
+  }
+
+#grilleBouton button{
+margin: 15px;
+width: 80px;
+
+  }
+
+img{
+
+  width: 300px;
+
+}
+
+#image{
+
+margin-top:200px;
+
+}
